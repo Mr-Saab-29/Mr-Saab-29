@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ML models, NLP, DeepL. Soon to start expanding my knowledge in LLM's
 - 💞️ I’m looking to collaborate on data driven modelling and Machine learning model creation
 - 📫 How to reach me @ sabariravi29597@gmail.com
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am an ex-automotive designer/materials engineer who has turned to try my hand in the new world of data
 
 <!---
