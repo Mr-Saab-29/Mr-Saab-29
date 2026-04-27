@@ -1,14 +1,47 @@
-### 👋 Hey there! I’m Sabarish (@Mr-Saab-29)
+### 👋 Hey, I’m Sabarish (@Mr-Saab-29)
 
-I'm a data-driven problem solver with a background in automotive design and materials engineering, now immersed in the world of data science and machine learning.
+I build data and ML systems end-to-end — from raw data to models that actually run and get used.
 
-- 🔍 Passionate about turning complex data into meaningful insights
-- 🤖 Currently diving deeper into NLP, Deep Learning, and soon stepping into the world of LLMs
-- 💡 Always open to collaborating on ML projects, data-driven decision tools, or anything that blends curiosity with code
-- 📬 Reach me at: sabariravi29597@gmail.com, [LinkedIn](https://www.linkedin.com/in/sabarishrm/)
-- ⚙️ Fun fact: Once built car parts, now building intelligent systems — same curiosity, new playground!
+I started in automotive engineering, working on physical systems. Now I work on data systems — same mindset, just different tools.
 
-> “Curiosity steered me from machines to models — and I’m loving the ride.”
+---
+
+### ⚙️ What I do
+- Build **production-oriented ML pipelines** (data → modeling → deployment → monitoring)  
+- Work on **time-series forecasting** and real-world, noisy datasets  
+- Design **leakage-safe evaluation systems** (rolling backtests, stable metrics)  
+- Develop **LLM-based systems** with structured outputs, retries, and validation  
+- Focus on **reliability, robustness, and observability** over just model performance  
+
+---
+
+### 🧠 How I think
+- If it can’t be evaluated properly, it’s not useful  
+- If it breaks in production, the model doesn’t matter  
+- Simple systems that work > complex systems that impress  
+
+---
+
+### 🚀 Currently exploring
+- LLM systems (RAG, agents, orchestration, evaluation)  
+- Better ML system design (monitoring, reproducibility, scaling)  
+- Combining classical + ML approaches for more stable models  
+
+---
+
+### 🛠️ Stack
+**Python • Pandas • Scikit-learn • LightGBM • PyTorch**  
+**FastAPI • APIs • ML pipelines • Time-series • LLM systems**
+
+---
+
+### 🤝 Reach out
+📬 sabariravi29597@gmail.com  
+🔗 https://www.linkedin.com/in/sabarishravim/
+
+---
+
+> From building car components to building ML systems — still solving systems, just at a different scale.
 
 <!---
 Mr-Saab-29/Mr-Saab-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
